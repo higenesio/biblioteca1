@@ -23,3 +23,21 @@ align-items: center;
 padding: 1em;
 }
 
+.container_titulo{
+    display: none;
+}
+
+
+@media screen and (min-width: 1024px) {
+    /*...propriedade css...*/ 
+.container_titulo{
+    font-family: var(----fonte-secundaria);
+font-size: 30px;
+font-weight: 400;
+display: block;
+}
+.container_titulo--negrito{
+    font-weight: 700;
+}
+
+}
