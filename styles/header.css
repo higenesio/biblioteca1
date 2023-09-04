@@ -12,6 +12,7 @@ background-color: var(--branco);
 display: flex;
 justify-content: space-between;
 align-items: center;
+position: relative;
 }
 
 .container{
@@ -40,4 +41,14 @@ display: block;
     font-weight: 700;
 }
 
+}
+
+.lista-menu{
+    display: none;
+    position: absolute;
+    top: 100%;
+}
+
+.container_botao:checked~.lista-menu{
+    display: block;
 }
