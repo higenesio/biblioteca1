@@ -50,6 +50,7 @@ display: block;
 .opções_item{
     padding: 0 1em;
     text-transform: uppercase;
+    color: var(--preto);
 }
 .opções_link{ 
     text-decoration: none;
