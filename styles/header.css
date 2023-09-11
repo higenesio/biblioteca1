@@ -55,6 +55,12 @@ display: block;
     text-decoration: none;
     color: var(--preto);
 }
+.container_imagem-transparente{
+display: none;
+}
+.cabeçalho_menu-hamburguer{
+    display: none;
+}
 
 }
 
