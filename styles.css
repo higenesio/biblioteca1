@@ -5,7 +5,8 @@
     --fonte-ptincional: "Poppins";
 --fonte-secundaria: "Josefin Sans";
 --amarelo: #FECD2F;
---roxo-degrade: linear-gradient(94deg, #733887 35.48%, #C75EEB 143.32%); 
+--roxo-degrade: linear-gradient(94deg, #733887 35.48%, #C75EEB 143.32%);
+--preto: #000000; 
 }
 
 body{
