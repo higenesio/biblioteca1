@@ -76,7 +76,7 @@ display: none;
 }
 
 .lista-menu_titulo, .lista-menu_item{
-    padding: lem;
+    padding: 1em;
     background-color: var(--branco);
 }
 
