@@ -17,6 +17,7 @@ position: relative;
 
 .container{
     display: flex;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -74,6 +75,7 @@ display: none;
 
 .container_botao:checked~.lista-menu{
     display: block;
+    width: auto;
 }
 
 .lista-menu_titulo, .lista-menu_item{
